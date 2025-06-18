@@ -10,7 +10,7 @@ The dataset used is the **Amazon Alexa Customer Reviews** dataset, which contain
 
 ## Workflow
 ### 1. Data Preparation
-- Load the dataset (`Amazon_Alexa.tsv`).
+- Load the dataset (`Amazon_Alexa.tsv`). 
 - Extract relevant columns (`verified_reviews`, `feedback`).
 - Perform data cleaning: remove special characters, HTML tags, and extra spaces.
 - Balance the dataset using down-sampling.
