@@ -1,7 +1,7 @@
 # Time-Series-Forecasting-Visualization 
 
 ## Project Overview 
-This project performs sentiment analysis using Google Gemini Pro and OpenAI's ChatGPT APIs in Python. It classifies Amazon Alexa customer reviews as positive or negative using LLMs, leveraging zero-shot and few-shot prompting techniques. 
+This project performs sentiment analysis using Google Gemini Pro and OpenAI's ChatGPT APIs in Python. It classifies Amazon Alexa customer reviews as positive or negative using LLMs, leveraging zero-shot and few-shot prompting techniques.
 
 ## Dataset
 The dataset used is the **Amazon Alexa Customer Reviews** dataset, which contains:
